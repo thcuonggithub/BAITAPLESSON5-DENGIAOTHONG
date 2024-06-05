@@ -1,0 +1,18 @@
+.traffic-light {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    background: black;
+    border-radius: 10px;
+    padding: 40px 24px;
+}
+
+.btn {
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    left: 58%;
+    top: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
